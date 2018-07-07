@@ -11,8 +11,8 @@ class Navbar extends Component{
 				</svg>
 				<ul>
 					<li><a href="#home">Home</a></li>
-					<li><a href="#about">Professional</a></li>
-					<li><a href="#proff">Experience</a></li>
+					<li><a href="#proff">Professional</a></li>
+					<li><a href="#exp">Experience</a></li>
 					<li><a href="#contact">Contact</a></li>
 				</ul>
 			</nav>
